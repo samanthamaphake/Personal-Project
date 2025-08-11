@@ -1,2 +1,1 @@
-# Personal-Project
-Samantha Personal Portfolio
+# Portfolio
